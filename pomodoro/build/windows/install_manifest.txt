@@ -1,0 +1,10 @@
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Can/Desktop/pomodoro/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
